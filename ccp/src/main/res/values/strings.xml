@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">CountryCodePicker</string>
-    <string name="search_hint">Search...</string>
-    <string name="no_result_found">Results not found</string>
-    <string name="select_country">Select a county</string>
+    <string name="ccp_search_hint">Search...</string>
+    <string name="ccp_no_result_found">Results not found</string>
+    <string name="ccp_select_country">Select a county</string>
 </resources>
