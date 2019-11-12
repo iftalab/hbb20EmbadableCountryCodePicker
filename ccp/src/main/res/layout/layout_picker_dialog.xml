@@ -18,7 +18,7 @@
             android:layout_margin="10dp"
             android:layout_toLeftOf="@+id/img_dismiss"
             android:layout_toStartOf="@+id/img_dismiss"
-            android:text="@string/select_country"
+            android:text="@string/ccp_select_country"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:textColor="@android:color/secondary_text_light" />
 
@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_toLeftOf="@+id/img_clear_query"
             android:layout_toStartOf="@+id/img_clear_query"
-            android:hint="@string/search_hint"
+            android:hint="@string/ccp_search_hint"
             android:imeOptions="actionSearch"
             android:singleLine="true"
             android:inputType="textNoSuggestions"
@@ -92,7 +92,7 @@
         android:layout_below="@+id/rl_query_holder"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:text="@string/no_result_found"
+        android:text="@string/ccp_no_result_found"
         android:textColor="@android:color/primary_text_light"
         android:visibility="gone" />
 

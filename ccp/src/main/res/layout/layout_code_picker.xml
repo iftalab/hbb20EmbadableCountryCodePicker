@@ -32,7 +32,7 @@
                     android:layout_height="18dp"
                     android:layout_margin="0.5dp"
                     android:adjustViewBounds="true"
-                    android:src="@drawable/flag_india" />
+                    android:src="@drawable/flag_bangladesh" />
             </LinearLayout>
         </LinearLayout>
 
@@ -45,7 +45,7 @@
             android:layout_toEndOf="@+id/linear_flag_holder"
             android:layout_toRightOf="@+id/linear_flag_holder"
             android:singleLine="true"
-            android:text="(IN) +91"
+            android:text="(BD) +880"
             android:textColor="@android:color/black"
             android:textSize="18sp" />
 
